@@ -9,8 +9,8 @@
 </div>
 <br>
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=natsortadev&show_icons=true&theme=calm&include_all_commits=true&count_private=true&hide_border=true&icons=true">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=natsortadev&layout=compact&langs_count=7&theme=calm&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=natsortadev&show_icons=true&theme=calm&include_all_commits=true&count_private=true&hide_border=false&icons=true">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=natsortadev&layout=compact&langs_count=7&theme=calm&hide_border=false"/>
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Ubuntu-ff781f?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Linux%20Mint-7fb375?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
