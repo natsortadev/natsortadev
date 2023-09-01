@@ -35,7 +35,7 @@
   ##
  
 <div align="center">
-  <!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> -->
+  <!-- <a href = "https://www.codewars.com/users/natsortadev" target="_blank"><img src="https://img.shields.io/badge/-Codewars-B22222?style=for-the-badge&logo=codewars&logoColor=white"></a><br> -->
   <a href = "mailto:smachadonatalia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href ="https://stackoverflow.com/users/20831039/nat?tab=profile" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   <a href ="https://scratch.mit.edu/users/thoreau_thunder/" target="_blank"><img src="https://img.shields.io/badge/Scratch-F6AB3C?style=for-the-badge&logo=scratch&logoColor=white"></a>
