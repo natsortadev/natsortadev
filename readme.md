@@ -39,7 +39,7 @@
   <a href ="https://stackoverflow.com/users/20831039/nat?tab=profile" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   <a href ="https://scratch.mit.edu/users/thoreau_thunder/" target="_blank"><img src="https://img.shields.io/badge/Scratch-F6AB3C?style=for-the-badge&logo=scratch&logoColor=white"></a>
   <a href ="https://www.linkedin.com/in/natália-s-518478243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
-  <a href="https://www.codewars.com/users/natsortadev" target="_blank"><img align="center" alt="codewars-svg" src="https://www.codewars.com/users/natsortadev/badges/large"></a><br>
+  <a href="https://www.codewars.com/users/natsortadev" target="_blank"><img align="center" alt="codewars-svg" src="https://www.codewars.com/users/natsortadev/badges/large"></a><br><br>
   
    ![](https://github.com/natsortadev/snk/raw/output/github-contribution-grid-snake.svg)
   
