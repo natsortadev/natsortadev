@@ -19,7 +19,7 @@
   <!--<img align="center" alt="nat-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">-->
   <img align="center" alt="nat-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="nat-markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
-</div>
+</div><br>
 <div align="center">
   <!--<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=natsortadev&show_icons=true&theme=calm&include_all_commits=true&count_private=true&hide_border=true&icons=true">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=natsortadev&layout=compact&langs_count=7&theme=calm&hide_border=true"/>-->
