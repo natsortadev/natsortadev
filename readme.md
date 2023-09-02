@@ -7,7 +7,6 @@
   Desenvolvedora de software trainee<br>
   <i>Buscando aprendizado!</i>
 </div>
-<br>
 <div align="center">
   <!--<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=natsortadev&show_icons=true&theme=calm&include_all_commits=true&count_private=true&hide_border=true&icons=true">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=natsortadev&layout=compact&langs_count=7&theme=calm&hide_border=true"/>-->
@@ -39,18 +38,17 @@
   <a href = "mailto:smachadonatalia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href ="https://stackoverflow.com/users/20831039/nat?tab=profile" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   <a href ="https://scratch.mit.edu/users/thoreau_thunder/" target="_blank"><img src="https://img.shields.io/badge/Scratch-F6AB3C?style=for-the-badge&logo=scratch&logoColor=white"></a>
-  <a href ="https://www.linkedin.com/in/natália-s-518478243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href ="https://www.linkedin.com/in/natália-s-518478243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
+  <a href="https://www.codewars.com/users/natsortadev" target="_blank"><img align="center" alt="codewars-svg" src="https://www.codewars.com/users/natsortadev/badges/large"></a><br>
   
    ![](https://github.com/natsortadev/snk/raw/output/github-contribution-grid-snake.svg)
-
-<a href="https://www.codewars.com/users/natsortadev" target="_blank"><img align="center" alt="codewars-svg" src="https://www.codewars.com/users/natsortadev/badges/large"></a><br>
   
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{natsortadev}/count.svg" /></p> 
-  <br>
+  <!--<br>-->
 </div>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=natsortadev&bg_color=373f51&color=dea54a&line=c5705d&point=e1c6ac&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=natsortadev&bg_color=373f51&color=dea54a&line=c5705d&point=e1c6ac&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
   
 </div>
