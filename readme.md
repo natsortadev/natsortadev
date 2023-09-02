@@ -1,10 +1,12 @@
 <!--## *natália's*•-->
+![](https://media.licdn.com/dms/image/D4D16AQFLEGDNdNMzmA/profile-displaybackgroundimage-shrink_350_1400/0/1684964529067?e=1698883200&v=beta&t=y-8IpsS4O2ik22ika_Fgl7gXIm_T0BoLF4Qgv57TkYU)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff6f61&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+<3)](https://git.io/typing-svg)
 
 <div align="center">
   📚🌼🪐 <br>
   Estudante de ciência da computação;<br>
-  Desenvolvedora de software trainee<br>
+  Desenvolvedora de software trainee;<br>
   <i>Buscando aprendizado!</i>
 </div>
 <div align="center" style="display: inline_block"><br>
@@ -38,15 +40,15 @@
   <a href ="https://www.linkedin.com/in/natália-s-518478243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
   <!--<a href="https://www.codewars.com/users/natsortadev" target="_blank"><img align="center" alt="codewars-svg" src="https://www.codewars.com/users/natsortadev/badges/large"></a><br><br>-->
 
-##
+ <!-- ##
   
-   ![](https://github.com/natsortadev/snk/raw/output/github-contribution-grid-snake.svg)
+ ![](https://github.com/natsortadev/snk/raw/output/github-contribution-grid-snake.svg)-->
   
-<div align="center">
+<!--<div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{natsortadev}/count.svg" /></p> 
-  <!--<br>-->
-</div>
+  <br>
+</div>-->
   
   <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=natsortadev&bg_color=373f51&color=dea54a&line=c5705d&point=e1c6ac&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
   
