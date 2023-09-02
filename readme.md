@@ -4,7 +4,7 @@
 <div align="center">
   📚🌼🪐 <br>
   Estudante de ciência da computação;<br>
-  Desenvolvedora trainee front-end / Vue.js;<br>
+  Desenvolvedora de software trainee<br>
   <i>Buscando aprendizado!</i>
 </div>
 <br>
