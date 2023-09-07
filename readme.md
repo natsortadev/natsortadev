@@ -36,12 +36,3 @@
   <br><p align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{natsortadev}/count.svg" /></p> 
 </div>
-
-##
-
-<div align="center">
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=natsortadev&show_icons=true&theme=calm&include_all_commits=true&count_private=true&hide_border=true&icons=true"><br>
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=natsortadev&theme=calm&hide_border=true">
-</div>
-
-![](https://github.com/natsortadev/snk/raw/output/github-contribution-grid-snake.svg)
