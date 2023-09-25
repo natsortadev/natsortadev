@@ -33,6 +33,9 @@
   <img src="https://img.shields.io/badge/Xcode-9ab8f7?style=for-the-badge&logo=Xcode&logoColor=white">
 </div>
 <div align="center">
+    <img src="https://www.codewars.com/users/natsortadev/badges/large"/>
+</div>
+<div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{natsortadev}/count.svg" /></p> 
 </div>
