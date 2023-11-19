@@ -24,10 +24,6 @@
   <img align="center" alt="nat-markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
 </div>
 <div align="center"><br>
-  <img src="https://img.shields.io/badge/Ubuntu-ff781f?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux%20Mint-7fb375?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
-  <img src="https://img.shields.io/badge/DuckDuckGo-de5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white">
-  <img src="https://img.shields.io/badge/Firefox-ffc046.svg?style=for-the-badge&logo=firefox&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4c5b93.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Android%20Studio-a3c9a8.svg?style=for-the-badge&logo=android-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Xcode-9ab8f7?style=for-the-badge&logo=Xcode&logoColor=white">
