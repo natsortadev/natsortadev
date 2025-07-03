@@ -2,7 +2,7 @@
 
 <div align="center">
   📚🌼🪐 <br>
-  <i>Estudante de ciência da computação e pesquisadora</i>
+  <i>Tecnóloga em gestão de segurança e defesa cibernética, estudante de ciência da computação e pesquisadora</i>
 </div>
 <div align="center"><br>
   <img align="center" alt="nat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
